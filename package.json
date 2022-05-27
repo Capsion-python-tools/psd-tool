@@ -1,0 +1,14 @@
+{
+  "name": "psd-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Capsion-python-tools/psd-tool.git",
+  "author": "CPS <holy.dandelion@139.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/fs-extra": "^9.0.13",
+    "axios": "^0.27.2",
+    "fs-extra": "^10.1.0"
+  }
+}

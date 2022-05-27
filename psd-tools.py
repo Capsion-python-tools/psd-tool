@@ -82,7 +82,4 @@ if ( __name__ == "__main__"):
 
     print('\n')
     # print(dir(psd[0]))
-
-
-
     # psd.composite().save('example.png')
